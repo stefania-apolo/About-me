@@ -17,7 +17,7 @@ This is where I explore those questions, share what I'm learning, and document p
 
 ### Currently exploring
 
-**The Black Box in the Courtroom**  
+**[The Black Box in the Courtroom](courtroom-research.md)**  
 *Independent legal research · Ongoing*
 
 Researching algorithmic evidence, explainability, and the challenges of applying traditional evidentiary standards to emerging technologies.
